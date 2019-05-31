@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="tb1" max_length="40" name="sn_may_31_1_tb1" type="collection"/>
-</database>

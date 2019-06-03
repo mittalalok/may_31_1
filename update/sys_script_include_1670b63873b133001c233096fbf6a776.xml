@@ -10,7 +10,7 @@
         <script><![CDATA[var si2 = Class.create();
 si2.prototype = {
     initialize: function() {
-		//sdasd rwr
+		//sdasd rdss
     },
 
     type: 'si2'
@@ -19,13 +19,13 @@ si2.prototype = {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-05-31 11:23:44</sys_created_on>
         <sys_id>1670b63873b133001c233096fbf6a776</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>si2</sys_name>
         <sys_package display_value="may_31_1" source="sn_may_31_1">527deab473b133001c233096fbf6a79a</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="may_31_1">527deab473b133001c233096fbf6a79a</sys_scope>
         <sys_update_name>sys_script_include_1670b63873b133001c233096fbf6a776</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-06-03 05:59:33</sys_updated_on>
+        <sys_updated_on>2019-06-03 06:02:48</sys_updated_on>
     </sys_script_include>
 </record_update>
